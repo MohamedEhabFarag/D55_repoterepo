@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "file1.h"
-void printMyName(void)
+void printId(void)
 {
-printf("mohamed");
+
+printf("3030");
+
 }

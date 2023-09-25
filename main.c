@@ -4,7 +4,7 @@
 int main ()
 {
 
+printId(void);
 
-	printMyName();
 return 0;
 }

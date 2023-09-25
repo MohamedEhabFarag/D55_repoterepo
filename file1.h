@@ -1,1 +1,1 @@
-void printMyName(void);
+void printId(void);
